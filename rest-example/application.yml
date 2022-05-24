@@ -4,9 +4,7 @@ spring:
     username: HR
     password: HR
     
-  application:
-     name: rest-example
-  
+   
   jpa:
     properties:
       hibernate:
